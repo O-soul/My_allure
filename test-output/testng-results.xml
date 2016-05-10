@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3375" started-at="2016-05-10T13:26:40Z" finished-at="2016-05-10T13:26:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3375" started-at="2016-05-10T13:26:40Z" finished-at="2016-05-10T13:26:43Z">
+      <class name="my.company.SearchTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:my.company.SearchTest@6e4f263e]" name="beforeSuite" is-config="true" duration-ms="4742" started-at="2016-05-10T16:26:35Z" finished-at="2016-05-10T16:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:my.company.SearchTest@6e4f263e]" name="setUp" is-config="true" duration-ms="95" started-at="2016-05-10T16:26:40Z" finished-at="2016-05-10T16:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchYandexTest()[pri:0, instance:my.company.SearchTest@6e4f263e]" name="searchYandexTest" duration-ms="2771" started-at="2016-05-10T16:26:40Z" finished-at="2016-05-10T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchYandexTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:my.company.SearchTest@6e4f263e]" name="afterClass" is-config="true" duration-ms="1076" started-at="2016-05-10T16:26:43Z" finished-at="2016-05-10T16:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- my.company.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
