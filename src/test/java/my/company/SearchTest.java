@@ -25,7 +25,7 @@ public class SearchTest extends BaseTest{
     @BeforeMethod
     public void setUp(){  
     	steps = new WebDriverSteps();
-    	settings.getBaseURL();
+    	settings.getBaseURL();//
     }
     
     @Step("Hi, I'm searchYandexTest!")
