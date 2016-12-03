@@ -16,7 +16,7 @@ import static org.testng.Assert.fail;
  */
 public class SimpleTest {
     @Test
-    public void simpleTest() throws Exception {
+    public void simpleTest() throws Exception {//
         assertThat(2, is(2));
     }
 
