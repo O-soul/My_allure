@@ -27,7 +27,7 @@ public class SimpleTest {
 
     @Test
     public void simpleTestWithSteps() throws Exception {
-        checkThat2is2();
+        checkThat2is2();//
     }
 
     @Attachment
