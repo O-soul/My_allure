@@ -39,6 +39,8 @@ public class SimpleTest {
     public void simpleTestWithAttachments() throws Exception {
         assertThat(2, is(2));
         makeAttach();
+        assertThat(2, is(2));
+        makeAttach();
     }
 
     @Test
